@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">• Habilidade em lógica de programação<br>• Rápido aprendizado de novas tecnologias<br>• Experiência em ambientes remotos e trabalho colaborativo<br>• Competência em planejamento, organização, gestão de projetos e comunicação visual<br>• Visão multidisciplinar adquirida pela atuação em audiovisual, esportes e design<br>• Inglês intermediário com experiência em projetos internacionais<br>• Proatividade, criatividade, orientação a resultados e adaptabilidade<br>• Capacidade de sugerir melhorias, otimizar processos e contribuir em times</p>
+<p align="left">• Habilidade em lógica de programação<br>• Rápido aprendizado de novas tecnologias<br>• Experiência em ambientes remotos e trabalho colaborativo<br>• Competência em planejamento, organização, gestão de projetos e comunicação visual<br>• Visão multidisciplinar adquirida pela atuação em audiovisual e design<br>• Inglês intermediário com experiência em projetos internacionais<br>• Proatividade, criatividade, orientação a resultados e adaptabilidade<br>• Capacidade de sugerir melhorias, otimizar processos e contribuir em times</p>
 
 ###
 
