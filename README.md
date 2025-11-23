@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Meu nome é Tathyana Serbêto, sou brasileira e atualmente estudante de Análise e Desenvolvimento de Sistemas.<br><br>Após mais de 12 anos de experiência no mercado esportivo e audiovisual estou em transição para a área da tecnologia, com grande interesse em desenvolvimento de software e sistemas.<br><br>Meu objetivo é unir minha bagagem criativa e minha experiência multidisciplinar à análise e desenvolvimento de soluções digitais, explorando caminhos como design de interfaces, automação e programação.</p>
+<p align="left">Meu nome é Tathyana Serbêto, sou brasileira e atualmente estudante de Análise e Desenvolvimento de Sistemas.<br><br>Após mais de 12 anos de experiência no mercado esportivo e audiovisual estou em transição para a área da tecnologia, com grande interesse em desenvolvimento de software e sistemas.<br><br>Meu objetivo é unir minha bagagem criativa e minha experiência multidisciplinar à análise e desenvolvimento de soluções digitais.</p>
 
 ###
 
