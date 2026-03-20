@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Meu nome é Tathyana Serbêto e atualmente estudante de Análise e Desenvolvimento de Sistemas.</h4>
+<h3 align="left">Meu nome é Tathyana Serbêto e atualmente estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
 ###
 
@@ -21,10 +21,6 @@
 ###
 
 <p align="left">• Facilidade em aprender novas tecnologias e se adaptar a diferentes contextos<br>• Experiência em trabalho remoto e colaboração em equipe<br>• Organização, planejamento e gestão de projetos<br>• Visão multidisciplinar<br>• Inglês intermediário com atuação em projetos internacionais<br>• Proatividade e senso de melhoria contínua<br>• Boa comunicação e capacidade de contribuir ativamente em times</p>
-
-###
-
-<p align="center">📬 | tathyanaserbeto@gmail.com</p>
 
 ###
 
