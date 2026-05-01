@@ -1,22 +1,9 @@
 <h3 align="left">Olá 🌱👩🏻‍💻</h3>
 
-###
-
 <h3 align="left">Meu nome é Tathyana Serbêto e atualmente estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<h3 align="left">Sobre mim:</h3>
-
-###
-
-<p align="left">Após mais de 12 anos de experiência no mercado esportivo e audiovisual decidi colocar um sonho antigo em ação e estou em transição para a área da tecnologia. Meu objetivo é aplicar minha visão criativa e multidisciplinar na construção de soluções digitais.<br><br>Atualmente, estou direcionando meus estudos para Java, Git/GitHub, lógica de programação e programação orientada a objetos, construindo uma base sólida e desenvolvendo projetos práticos para consolidar esses conhecimentos.</p>
+<p align="left"> Com mais de 12 anos de experiência no mercado esportivo e audiovisual, iniciei uma transição estruturada para a área de tecnologia, unindo minha vivência prática à construção de novas competências técnicas. <br><br>
+Atualmente, estou aprofundando meus estudos em Java, Python, SQL, Git/GitHub, lógica de programação e Programação Orientada a Objetos (POO), com foco em Engenharia de Dados e desenvolvimento Backend com Java.</p>
 
 ###
 
@@ -24,18 +11,33 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<h3 align="left">Projetos em destaque</h3>
 
-###
+<p align="left">Java & Lógica de Programação<br>
+• Pedidos na Cafeteria → estudo de variáveis, condicionais e estruturas de repetição <br>
+• 100 Exercícios de Algoritmos em Java → prática intensiva de lógica de programação <br>
+• Sistema de Biblioteca (POO) → aplicação de Programação Orientada a Objetos em um sistema completo </p>
 
-<br clear="both">
+<p align="left">Análise de Dados<br>
+• Análise Exploratória de Dados com SQL → exploração de dados, consultas, agregações e geração de insights</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=gradient" />
 </div>
 
-###
+<img width="12"/>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
+</div>
+
+<img width="12"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=gradient" />
+</div>
