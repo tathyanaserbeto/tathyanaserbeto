@@ -3,7 +3,7 @@
 <h3 align="left">Meu nome é Tathyana Serbêto e atualmente estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
 <p align="left"> Com mais de 12 anos de experiência no mercado esportivo e audiovisual, iniciei uma transição estruturada para a área de tecnologia, unindo minha vivência prática à construção de novas competências técnicas. <br><br>
-Atualmente, estou aprofundando meus estudos em Java, Python, SQL, Git/GitHub, lógica de programação e Programação Orientada a Objetos (POO), com foco em Engenharia de Dados e desenvolvimento Backend com Java.</p>
+Estou aprofundando meus estudos em Java, Python, SQL, Git/GitHub, lógica de programação e Programação Orientada a Objetos (POO), com foco em Engenharia de Dados e desenvolvimento Backend com Java.</p>
 
 ###
 
